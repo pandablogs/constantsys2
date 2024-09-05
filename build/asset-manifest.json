@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pandablogs/constantsys2.git/static/css/main.bd149bbf.css",
+    "main.js": "/pandablogs/constantsys2.git/static/js/main.501e4517.js",
+    "static/js/453.2c417de4.chunk.js": "/pandablogs/constantsys2.git/static/js/453.2c417de4.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/pandablogs/constantsys2.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/pandablogs/constantsys2.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/hero.svg": "/pandablogs/constantsys2.git/static/media/hero.4e5ac709c0aecd288c5c2942f264f347.svg",
+    "static/media/img1.svg": "/pandablogs/constantsys2.git/static/media/img1.ae4bc3bcdf14107be3ac497ccb502c2a.svg",
+    "static/media/logo.png": "/pandablogs/constantsys2.git/static/media/logo.0261cbbc4fb3b206fd2a.png",
+    "static/media/img5.svg": "/pandablogs/constantsys2.git/static/media/img5.9e1194d3733677f5423c13056fa6cd81.svg",
+    "static/media/img2.svg": "/pandablogs/constantsys2.git/static/media/img2.d86887e2126ccaadd13a8ab2ef46d6f9.svg",
+    "static/media/img3.svg": "/pandablogs/constantsys2.git/static/media/img3.ed3bcf7b87233f52365e33fe4b75ce97.svg",
+    "static/media/img4.svg": "/pandablogs/constantsys2.git/static/media/img4.02e1b5dffe5d00551957c45f39c4a53a.svg",
+    "index.html": "/pandablogs/constantsys2.git/index.html",
+    "main.bd149bbf.css.map": "/pandablogs/constantsys2.git/static/css/main.bd149bbf.css.map",
+    "main.501e4517.js.map": "/pandablogs/constantsys2.git/static/js/main.501e4517.js.map",
+    "453.2c417de4.chunk.js.map": "/pandablogs/constantsys2.git/static/js/453.2c417de4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd149bbf.css",
+    "static/js/main.501e4517.js"
+  ]
+}
