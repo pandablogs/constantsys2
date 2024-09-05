@@ -2,7 +2,7 @@
   "name": "constantsys-2.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/yourrepository",
+  "homepage": "https://github.com/pandablogs/constantsys2.git",
   "dependencies": {
     "@mui/material": "^6.0.2",
     "@mui/styled-engine-sc": "^6.0.2",
