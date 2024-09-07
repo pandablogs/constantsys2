@@ -1,0 +1,18 @@
+#about{.text-primary {
+    --tw-text-opacity: 1;
+    color: rgb(52 152 219 / var(--tw-text-opacity));
+}
+
+.bg-primary {
+    --tw-text-opacity: 1;
+    background-color: rgb(52 152 219 / var(--tw-text-opacity));
+}
+
+.border-primary {
+    --tw-border-opacity: 1;
+    border-color: rgb(52 152 219 / var(--tw-border-opacity));
+}
+
+.img-blue {
+    filter: hue-rotate(68deg) !important;
+}}

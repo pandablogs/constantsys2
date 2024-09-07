@@ -14,7 +14,7 @@ export default function Header() {
   },[location]);
 
   const handleScroll = () => {
-    if (window.scrollY > 20) {
+    if (window.scrollY > 40) {
       setBgColor('#f7f5fd');
       setShadow('shadow-md') // Change to the color you want when scrolled down
     } else {
@@ -43,10 +43,10 @@ export default function Header() {
   return (
     <div className="w-full">
       <nav
-        className={`sticky top-0 bg-[${bgColor}] ${shadow} z-30 block items-start duration-300 ease-in-out`}
-        // style={{
-        //   // boxShadow: "#d5ddfda1 0px 4px 25px"
-        // }}
+        className={`sticky top-0 ${shadow} z-30 block items-start duration-100 ease-in-out`}
+        style={{
+          background:bgColor
+        }}
         
       >
         <div className="w-full max-w-full">

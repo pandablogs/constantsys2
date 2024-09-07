@@ -7,6 +7,8 @@ import Footer from "./components/Footer";
 import Careears from "./Careears";
 import Contact from "./contact/Contact";
 import { useEffect, useState } from "react";
+import PortFolio from "./portfolio";
+import About from "./About";
 
 function App() {
 
@@ -44,8 +46,10 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/join-us" element={<Careears />} />
           <Route path="/contact-us" element={<Contact />} />
+          <Route path="/portfolio" element={<PortFolio />} />
+          <Route path="/about-us" element={<About />} />
         </Routes>
-        {scrollHeight > 20 && (
+        {scrollHeight > 40 && (
           <div>
             <div className="e-top cursor-pointer" style={{ bottom: "30px" }}>
               <a

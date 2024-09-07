@@ -24,6 +24,12 @@ const Contact = () => {
                                 <div className="space-y-4 mt-8">
                                     <input type="text" placeholder="Full Name"
                                         className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
+                                    <input type="number" placeholder="Phone No."
+                                        className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
+
+                                    <input type="email" placeholder="Email"
+                                        className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
+
                                     <input type="text" placeholder="Street"
                                         className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
                                     <div className="grid grid-cols-2 gap-6">
@@ -33,12 +39,7 @@ const Contact = () => {
                                         <input type="text" placeholder="Postcode"
                                             className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
                                     </div>
-                                    <input type="number" placeholder="Phone No."
-                                        className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
-
-                                    <input type="email" placeholder="Email"
-                                        className="px-2 py-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none" />
-
+                                    
                                     <textarea placeholder="Write Message"
                                         className="px-2 pt-3 bg-white w-full text-gray-800 text-sm border-b border-gray-300 focus:border-[#3498db] outline-none"></textarea>
                                 </div>

@@ -8,9 +8,9 @@ import locations from '../../assets/images/locations.svg';
 
 export default function Footer() {
   return (
-    <div className="pb-[20px] lg:block" id='footer'>
+    <div className="pb-[20px] lg:block bg-white z-10 relative" id='footer'>
   <div>
-    <hr className="bg-primary p-[0.5px] " />
+    <hr className="bg-[#3498db] p-[0.5px] " />
   </div>
   <div style={{ maxWidth: 1536, margin: "auto", width: "100%" }}>
     <div className="m-auto w-[90%]">

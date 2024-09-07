@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5cdaf3e.css",
-    "main.js": "/static/js/main.ff502845.js",
+    "main.css": "/static/css/main.00ce2ae3.css",
+    "main.js": "/static/js/main.b5a9a6b1.js",
     "static/js/453.2c417de4.chunk.js": "/static/js/453.2c417de4.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/map.png": "/static/media/map.bd4d6d547821086b64b0.png",
@@ -16,9 +16,13 @@
     "static/media/plan.svg": "/static/media/plan.866bbf681ab6130ee7e21a7c84d70f0b.svg",
     "static/media/img1.svg": "/static/media/img1.ae4bc3bcdf14107be3ac497ccb502c2a.svg",
     "static/media/logo.png": "/static/media/logo.0261cbbc4fb3b206fd2a.png",
+    "static/media/about5.svg": "/static/media/about5.cd7d3feefe612f124ee304113d06e4cb.svg",
     "static/media/docker_icon.svg": "/static/media/docker_icon.f9c8a777785699f9aa170443b1375410.svg",
+    "static/media/about1.svg": "/static/media/about1.0d4c974fedc0cbd9678ebc502b863e0e.svg",
+    "static/media/about3.svg": "/static/media/about3.ad4a60b1ba1145e9113640a739d7262f.svg",
     "static/media/img5.svg": "/static/media/img5.9e1194d3733677f5423c13056fa6cd81.svg",
     "static/media/postgre_SQL.svg": "/static/media/postgre_SQL.2bd4f989aedb08e2586b920a21d7201b.svg",
+    "static/media/about4.svg": "/static/media/about4.688848092a3e60f3d94beab982d1da08.svg",
     "static/media/rocket-4.svg": "/static/media/rocket-4.3245cc5bdef189c6be65.svg",
     "static/media/test.svg": "/static/media/test.2daa1464ee4946b3f3f010597de59391.svg",
     "static/media/img2.svg": "/static/media/img2.d86887e2126ccaadd13a8ab2ef46d6f9.svg",
@@ -26,6 +30,7 @@
     "static/media/aws_icon.svg": "/static/media/aws_icon.69d89ec823abe85a9b4236a4aeedfe0e.svg",
     "static/media/img3.svg": "/static/media/img3.ed3bcf7b87233f52365e33fe4b75ce97.svg",
     "static/media/Redis_Logo.svg": "/static/media/Redis_Logo.78cf79fcf9767b88264d394e97e4c860.svg",
+    "static/media/about2.svg": "/static/media/about2.5b1ca69b6f662f7aab10d2b8afa59997.svg",
     "static/media/img4.svg": "/static/media/img4.02e1b5dffe5d00551957c45f39c4a53a.svg",
     "static/media/develop.svg": "/static/media/develop.556495a48b725d0d9c9a2ee76eaddafb.svg",
     "static/media/Firebase_Logo.svg": "/static/media/Firebase_Logo.26e09098ade9dbdf7848719322a6da46.svg",
@@ -44,12 +49,12 @@
     "index.html": "/index.html",
     "static/media/locations.svg": "/static/media/locations.4e10f35c1262c2a001de6087f27c48da.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.7701c5a807c021c7e049ba2cf5a5a6cb.svg",
-    "main.f5cdaf3e.css.map": "/static/css/main.f5cdaf3e.css.map",
-    "main.ff502845.js.map": "/static/js/main.ff502845.js.map",
+    "main.00ce2ae3.css.map": "/static/css/main.00ce2ae3.css.map",
+    "main.b5a9a6b1.js.map": "/static/js/main.b5a9a6b1.js.map",
     "453.2c417de4.chunk.js.map": "/static/js/453.2c417de4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5cdaf3e.css",
-    "static/js/main.ff502845.js"
+    "static/css/main.00ce2ae3.css",
+    "static/js/main.b5a9a6b1.js"
   ]
 }
