@@ -2,9 +2,7 @@ nav{
     position: fixed !important;
     width: 100%;
     top: 0;
-    .icon-x{
-        display: none;
-    }
+   
     
     .dot-icon{
         display: none;
@@ -13,6 +11,10 @@ nav{
     .active {
         color: #3498db;
     }
+}
+
+.icon-x{
+    display: none;
 }
 
 @media screen and (max-width:991px) {

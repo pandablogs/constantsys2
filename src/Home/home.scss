@@ -1,17 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 
-#home{
+#homePage{
     * {
         font-family: "Poppins", sans-serif;
     }
+    .text-primary {
+        --tw-text-opacity: 1;
+        color: rgb(52 152 219 / var(--tw-text-opacity));
+    }
+#home {
     
+
     .text-primary {
         --tw-text-opacity: 1;
         color: rgb(52 152 219 / var(--tw-text-opacity));
     }
 
-    .hero-img{
+    .hero-img {
         filter: hue-rotate(48deg);
     }
+}
+
+#technologies {
+    .tech-images {
+        border: 1px solid #3498db;
+        border-radius: 8px;
+        padding: 2px;
+    }
+
+    .side-image {
+        filter: hue-rotate(48deg);
+    }
+
+    .side-image {
+        -webkit-animation: mover 1s infinite  alternate;
+        animation: mover 1s infinite  alternate;
+    }
+    .side-image {
+        -webkit-animation: mover 1s infinite  alternate;
+        animation: mover 1s infinite  alternate;
+    }
+   
+}
+
+#HoweDoing{
+    .process-img{
+        filter: hue-rotate(48deg);
+    }
+}
+}
+
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
 }

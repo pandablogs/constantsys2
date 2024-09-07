@@ -1,1 +1,81 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.e-top {
+    position: fixed;
+    bottom: -80px;
+    right: 12px;
+    z-index: 9999;
+    height: 80px;
+    width: 80px;
+    transition: all 0.9s;
+    border-radius: 50%;
+    background-color: rgba(0, 132, 255, 0.5);
+}
+
+.e-top::before {
+    content: "";
+    background-color: rgba(38, 140, 199, 0.47);
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
+    border-radius: 50px;
+    -webkit-animation: pulsing1 2.3s infinite;
+    animation: pulsing1 2.3s infinite;
+}
+
+.e-top::after {
+    content: "";
+    background-color: #2694c7;
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    border-radius: 50px;
+}
+.e-top #rocketmeluncur.showrocket {
+    visibility: visible;
+    opacity: 1;
+}
+.e-top #rocketmeluncur {
+    position: fixed;
+    bottom: 0px;
+    z-index: 999;
+    opacity: 1;
+    display: none;
+    visibility: hidden;
+    width: 35px;
+    height: 70px;
+    right: 34px;
+    background: url('./assets/images/rocket-4.svg') no-repeat 50% 0;
+    transition: all 0.5s;
+}
+
+.e-top .launchRocket{
+    /* bottom: 1000px;
+    opacity: 0; */
+    transform: translateY(-800px);
+}
+
+.e-top #rocketmeluncur:hover {
+    height: 125px;
+    transition: all 0.5s;
+    right: 35px;
+}
+
+@keyframes pulsing1 {
+    0% {
+        -webkit-box-shadow: 0 0 0 0 rgba(4, 137, 199, 0.4);
+        box-shadow: 0 0 0 0 rgba(4, 111, 199, 0.4);
+    }
+    50% {
+        -webkit-box-shadow: 0 0 0 26px rgba(4, 199, 60, 0);
+        box-shadow: 0 0 0 26px rgba(4, 199, 60, 0);
+    }
+    100% {
+        -webkit-box-shadow: 0 0 0 0 rgba(4, 199, 60, 0);
+        box-shadow: 0 0 0 0 rgba(4, 199, 60, 0);
+    }
+}

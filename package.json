@@ -2,8 +2,9 @@
   "name": "constantsys-2.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pandablogs/constantsys2.git",
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
     "@mui/material": "^6.0.2",
     "@mui/styled-engine-sc": "^6.0.2",
     "@testing-library/jest-dom": "^5.17.0",

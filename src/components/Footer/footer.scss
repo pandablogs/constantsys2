@@ -1,0 +1,16 @@
+#footer{
+
+    background-color: #fff !important;
+    position: relative;
+    z-index: 10;
+    *{
+        font-family: "Poppins", sans-serif;
+    }
+    .bg-primary{
+        background-color: #3498db;
+    }
+
+    .icon{
+        filter: hue-rotate(64deg);
+    }
+}
