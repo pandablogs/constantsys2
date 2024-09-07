@@ -234,7 +234,7 @@ export default function Home() {
                 </h3>
                 <p className="m-auto w-[90%] text-center text-[14px] text-[#2F4651] md:w-[70%] md:text-[22px]">
                   <span className="text-[#192E35]">
-                    Propelius Technologies is focused on delivering quality,
+                    Constantsys Technologies is focused on delivering quality,
                     innovative solutions with groundbreaking technology.
                   </span>
                 </p>
